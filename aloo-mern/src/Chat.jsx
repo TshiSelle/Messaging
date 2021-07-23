@@ -1,11 +1,11 @@
-import React from 'react'
-import './Chat.css'
+import React from 'react';
+import './Chat.css';
 function Chat() {
   return (
     <div className='chat'>
-
+      <h1> I am Chat</h1>
     </div>
-  )
+  );
 }
 
-export default Chat
+export default Chat;
