@@ -22,6 +22,9 @@ function Sidebar() {
           </IconButton>
         </div>
       </div>
+      <div className='sidebar-search'>
+        <div className="sidebar_searchContainer"></div>
+      </div>
     </div>
   );
 }
